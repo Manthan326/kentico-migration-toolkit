@@ -1,0 +1,12 @@
+D:\Kentico\MigrationToolNew\xperience-migration-toolkit-master\Migration.Toolkit.KXP.Extensions\obj\Debug\net8.0\Migration.Toolkit.KXP.Extensions.csproj.AssemblyReference.cache
+D:\Kentico\MigrationToolNew\xperience-migration-toolkit-master\Migration.Toolkit.KXP.Extensions\obj\Debug\net8.0\Migration.Toolkit.KXP.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kentico\MigrationToolNew\xperience-migration-toolkit-master\Migration.Toolkit.KXP.Extensions\obj\Debug\net8.0\Migration.Toolkit.KXP.Extensions.AssemblyInfoInputs.cache
+D:\Kentico\MigrationToolNew\xperience-migration-toolkit-master\Migration.Toolkit.KXP.Extensions\obj\Debug\net8.0\Migration.Toolkit.KXP.Extensions.AssemblyInfo.cs
+D:\Kentico\MigrationToolNew\xperience-migration-toolkit-master\Migration.Toolkit.KXP.Extensions\obj\Debug\net8.0\Migration.Toolkit.KXP.Extensions.csproj.CoreCompileInputs.cache
+D:\Kentico\MigrationToolNew\xperience-migration-toolkit-master\Migration.Toolkit.KXP.Extensions\bin\Debug\net8.0\Migration.Toolkit.KXP.Extensions.deps.json
+D:\Kentico\MigrationToolNew\xperience-migration-toolkit-master\Migration.Toolkit.KXP.Extensions\bin\Debug\net8.0\Migration.Toolkit.KXP.Extensions.dll
+D:\Kentico\MigrationToolNew\xperience-migration-toolkit-master\Migration.Toolkit.KXP.Extensions\bin\Debug\net8.0\Migration.Toolkit.KXP.Extensions.pdb
+D:\Kentico\MigrationToolNew\xperience-migration-toolkit-master\Migration.Toolkit.KXP.Extensions\obj\Debug\net8.0\Migration.Toolkit.KXP.Extensions.dll
+D:\Kentico\MigrationToolNew\xperience-migration-toolkit-master\Migration.Toolkit.KXP.Extensions\obj\Debug\net8.0\refint\Migration.Toolkit.KXP.Extensions.dll
+D:\Kentico\MigrationToolNew\xperience-migration-toolkit-master\Migration.Toolkit.KXP.Extensions\obj\Debug\net8.0\Migration.Toolkit.KXP.Extensions.pdb
+D:\Kentico\MigrationToolNew\xperience-migration-toolkit-master\Migration.Toolkit.KXP.Extensions\obj\Debug\net8.0\ref\Migration.Toolkit.KXP.Extensions.dll

@@ -1,0 +1,12 @@
+D:\Kentico\MigrationToolNew\xperience-migration-toolkit-master\KX13.Extensions\bin\Debug\net6.0\KX13.Extensions.deps.json
+D:\Kentico\MigrationToolNew\xperience-migration-toolkit-master\KX13.Extensions\bin\Debug\net6.0\KX13.Extensions.dll
+D:\Kentico\MigrationToolNew\xperience-migration-toolkit-master\KX13.Extensions\bin\Debug\net6.0\KX13.Extensions.pdb
+D:\Kentico\MigrationToolNew\xperience-migration-toolkit-master\KX13.Extensions\obj\Debug\net6.0\KX13.Extensions.csproj.AssemblyReference.cache
+D:\Kentico\MigrationToolNew\xperience-migration-toolkit-master\KX13.Extensions\obj\Debug\net6.0\KX13.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kentico\MigrationToolNew\xperience-migration-toolkit-master\KX13.Extensions\obj\Debug\net6.0\KX13.Extensions.AssemblyInfoInputs.cache
+D:\Kentico\MigrationToolNew\xperience-migration-toolkit-master\KX13.Extensions\obj\Debug\net6.0\KX13.Extensions.AssemblyInfo.cs
+D:\Kentico\MigrationToolNew\xperience-migration-toolkit-master\KX13.Extensions\obj\Debug\net6.0\KX13.Extensions.csproj.CoreCompileInputs.cache
+D:\Kentico\MigrationToolNew\xperience-migration-toolkit-master\KX13.Extensions\obj\Debug\net6.0\KX13.Extensions.dll
+D:\Kentico\MigrationToolNew\xperience-migration-toolkit-master\KX13.Extensions\obj\Debug\net6.0\refint\KX13.Extensions.dll
+D:\Kentico\MigrationToolNew\xperience-migration-toolkit-master\KX13.Extensions\obj\Debug\net6.0\KX13.Extensions.pdb
+D:\Kentico\MigrationToolNew\xperience-migration-toolkit-master\KX13.Extensions\obj\Debug\net6.0\ref\KX13.Extensions.dll
